@@ -1,0 +1,46 @@
+Overall best likelihood -1820.822059288069113 found at repetition 3
+
+------------- Repetition 1
+Maximum log likelihood -1820.822059659882598 found after 16 iterations and 137 function evaluations
+Starting tree:
+((C: 0.21120, E: 0.21120): 0.25244, W: 0.46364);
+Shape parameters at root: 4.1445e-01 3.7409e-01
+Optimized tree:
+((C: 0.06441, E: 0.13322): 0.02079, W: 0.59277);
+Shape parameters at root: 3.5523e-01 2.9303e-01
+Branch lengths in DF order
+6.440806e-02	1.332210e-01	2.079029e-02	5.927712e-01	
+
+------------- Repetition 2
+Maximum log likelihood -1820.822059328408386 found after 20 iterations and 169 function evaluations
+Starting tree:
+((C: 0.26735, E: 0.21544): 2.52315, W: 0.40241);
+Shape parameters at root: 4.4208e-01 4.8944e-01
+Optimized tree:
+((C: 0.06440, E: 0.13322): 0.02078, W: 0.59279);
+Shape parameters at root: 3.5522e-01 2.9303e-01
+Branch lengths in DF order
+6.440163e-02	1.332208e-01	2.078253e-02	5.927867e-01	
+
+------------- Repetition 3
+Maximum log likelihood -1820.822059288069113 found after 20 iterations and 161 function evaluations
+Starting tree:
+((C: 3.78555, E: 0.30015): 0.21356, W: 1.57006);
+Shape parameters at root: 1.2381e-01 4.3038e-01
+Optimized tree:
+((C: 0.06440, E: 0.13322): 0.02078, W: 0.59279);
+Shape parameters at root: 3.5524e-01 2.9304e-01
+Branch lengths in DF order
+6.439901e-02	1.332211e-01	2.078171e-02	5.927852e-01	
+
+------------- Repetition 4
+Maximum log likelihood -1820.822059306348592 found after 16 iterations and 129 function evaluations
+Starting tree:
+((C: 0.21175, E: 0.24156): 0.25115, W: 0.39788);
+Shape parameters at root: 3.4524e-01 6.5255e-01
+Optimized tree:
+((C: 0.06440, E: 0.13322): 0.02078, W: 0.59279);
+Shape parameters at root: 3.5524e-01 2.9305e-01
+Branch lengths in DF order
+6.440043e-02	1.332216e-01	2.077920e-02	5.927886e-01	
+

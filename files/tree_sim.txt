@@ -1,0 +1,4 @@
+((C: 0.04400, E: 0.13200): 0.02800, W: 0.60000);
+Shape parameters at root: 1.0000e-02 8.0000e-03
+Branch lengths in DF order
+4.400000e-02	1.320000e-01	2.800000e-02	6.000000e-01	
