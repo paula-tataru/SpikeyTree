@@ -10,7 +10,7 @@ SpikeyTree can use the Beta or the Beta with Spikes approximation to the allele
 frequency distribution under the Wright-Fisher.
 
 More details can be found in 
-**Tataru et al.** *Inference under a Wright-Fisher model using an accurate beta approximation*
+**Tataru et al.** Inference under a Wright-Fisher model using an accurate beta approximation *Genetics* (2015) 201(3):1133–1141
 
 If using this software in a publication, please cite the above article.
 
